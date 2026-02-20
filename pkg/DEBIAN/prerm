@@ -1,0 +1,8 @@
+#!/bin/bash
+
+SUDOERS_FILE="/etc/sudoers.d/epitroll"
+
+if [ -f "$SUDOERS_FILE" ]; then
+    echo "Removing EpiTroll sudoers configuration..."
+    rm "$SUDOERS_FILE"
+fi

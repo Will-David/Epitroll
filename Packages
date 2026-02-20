@@ -4,10 +4,10 @@ Architecture: all
 Maintainer: AER Epitech <aer@epitech.eu>
 Depends: bash, sl
 Filename: ./epitroll.deb
-Size: 1942
-MD5sum: 5f2cc2bac4e4deb7a1fd7f4b4f6024e5
-SHA1: 1abafa8f1b2aab710e647c16758dad481877ef81
-SHA256: 0ef812dd546abb709324bcaa1e0f14b379debe83d16f6733eb366b4a72ef7512
+Size: 1804
+MD5sum: 16c080931da7d71678d3c483ebbdd337
+SHA1: 60ed8390d95f59c7a4b0e2a7493cbcae41a27dfc
+SHA256: bc463b9216c811e0b339cffe49da8a9a35ac5f8313a32c35010d654136b47c8f
 Section: utils
 Priority: optional
 Description: Student punishment tool for unlocked PCs.
