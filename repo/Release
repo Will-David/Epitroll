@@ -1,0 +1,7 @@
+Origin: EpiTroll Repository
+Label: EpiTroll
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: Student punishment tool repository

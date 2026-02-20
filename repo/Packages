@@ -1,0 +1,15 @@
+Package: epitroll
+Version: 1.0
+Architecture: all
+Maintainer: AER Epitech <aer@epitech.eu>
+Depends: bash, sl
+Filename: ./epitroll.deb
+Size: 1942
+MD5sum: 5f2cc2bac4e4deb7a1fd7f4b4f6024e5
+SHA1: 1abafa8f1b2aab710e647c16758dad481877ef81
+SHA256: 0ef812dd546abb709324bcaa1e0f14b379debe83d16f6733eb366b4a72ef7512
+Section: utils
+Priority: optional
+Description: Student punishment tool for unlocked PCs.
+ Prevents students from leaving their machines unlocked by adding annoying aliases.
+
